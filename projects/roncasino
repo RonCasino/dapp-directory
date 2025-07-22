@@ -1,0 +1,20 @@
+{
+  "name": "RonCasino",
+  "description": "RonCasino minigame house built on the Ronin Blockchain. RonCasino NFT holders gets renevue share from house profits. ",
+  "websites": [
+    {
+      "url": "https://www.roncasino.tech/",
+      "description": "Official RonCasino website and platform"
+    },
+    {
+      "url": "https://burncoin.tech/burningpaper",
+      "description": "Burncoin whitepaper - comprehensive project documentation"
+    }
+  ],
+  "contracts": [],
+  "categories": ["nft", "game", "social"],
+  "social": {
+    "x": "https://x.com/roncasino_",
+    "discord": "https://discord.gg/roncasino"
+  }
+}
